@@ -1,4 +1,6 @@
-﻿## Ana ekran
+﻿### [Stored Procedure](#Stored Procedure)
+
+## Ana ekran
 ![Alt text](static/images/1.PNG?raw=true "Ana ekran")
 ## Ürün ara
 ![Alt text](static/images/2.PNG?raw=true "Ürün ara")
