@@ -1,4 +1,4 @@
-﻿[Stored Procedure](#Stored Procedure)
+﻿* [Stored Procedure](#Stored Procedure)
 
 ## Ana ekran
 ![Alt text](static/images/1.PNG?raw=true "Ana ekran")
